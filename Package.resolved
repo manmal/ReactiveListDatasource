@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "cache",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hyperoslo/Cache.git",
+      "state" : {
+        "revision" : "c7f4d633049c3bd649a353bad36f6c17e9df085f",
+        "version" : "6.0.0"
+      }
+    },
+    {
+      "identity" : "dwifft",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jflinter/Dwifft.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6fec2bc0246091b3e17a9d42e722fb98e05ac3ff"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "efb2f0a6f6c8739cce8fb14148a5bd3c83f2f91d",
+        "version" : "7.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
